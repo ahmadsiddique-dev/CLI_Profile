@@ -1,7 +1,7 @@
 {
-  "name": "ahmad-siddique",
+  "name": "ahmad",
   "description": "This is Ahmad Siddique Portfolio Cli and It contains obviously 🥴 information about me.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "bin": {
     "ahmad": "./index.js"

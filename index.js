@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import gradient from "gradient-string";
 import figlet from "figlet";
 import ora from "ora";
